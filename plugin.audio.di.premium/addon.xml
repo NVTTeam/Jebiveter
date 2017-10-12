@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.audio.di.premium" name="Digitally Imported Premium" provider-name="NVTTeam - Jebiveter" version="2.0.9">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.requests"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py" provides="audio">
+    <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <description lang="en">Keep your groove going with no commercial interruptions 
+and enjoy all of your favorite channels without hearing or seeing advertisements.
+
+DI Premium audio quality is twice as good. 
+Quality of the sound is (128k AAC, 320k MP3), hear the difference for yourself.</description>
+    <disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
+    <license>GNU General Public License, v2</license>
+    <language></language>
+    <website>http://www.di.fm/</website>
+    <news></news>
+  </extension>
+</addon>

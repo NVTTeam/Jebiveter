@@ -1,0 +1,779 @@
+{
+    "radio.or.1": {
+        "name": "00's Club Hits",
+        "description": "00's Club Hits",
+        "url": "http://goo.gl/KLlY6m",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/1f2189badb0bb9ccba20e54163afff69.png"
+    },
+    "radio.or.2": {
+        "name": "Classic EuroDance",
+        "description": "Classic EuroDance",
+        "url": "http://goo.gl/DeKh27",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/a272766a55dc1d3c5b63e688d7a3d0de.png"
+    },
+    "radio.or.3": {
+        "name": "Ambient",
+        "description": "Ambient",
+        "url": "http://goo.gl/KYZEXC",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/9760862fcf5601c05c3581d6c0984128.png"
+    },
+    "radio.or.4": {
+        "name": "Bass & Jackin-House",
+        "description": "Bass & Jackin-House",
+        "url": "http://goo.gl/pnw00c",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/89b0dfb93cb7eba4d345d116f7fc00e7.png"
+    },
+    "radio.or.5": {
+        "name": "Bassline",
+        "description": "Bassline",
+        "url": "http://goo.gl/85abPX",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/98bbdb73486e5c0431a44117af617576.png"
+    },
+    "radio.or.6": {
+        "name": "Big Room House",
+        "description": "Big Room House",
+        "url": "http://goo.gl/nM9KJO",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/5b7f5db07bd3bc6e8097ea33bbea7552.png"
+    },
+    "radio.or.7": {
+        "name": "Breaks",
+        "description": "Breaks",
+        "url": "http://goo.gl/yj8z7Y",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/5fe8da68c08afeba771f1c0a5ba6bc2f.png"
+    },
+    "radio.or.8": {
+        "name": "ChillHop",
+        "description": "ChillHop",
+        "url": "http://goo.gl/pTM8kz",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/2bca153955723e44b5ef9ab9e9fcba8d.png"
+    },
+    "radio.or.9": {
+        "name": "Chillout Dreams",
+        "description": "Chillout Dreams",
+        "url": "http://goo.gl/pWBXPp",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/7a0a070cca01976ea62c9e1c5a19e9b1.png"
+    },
+    "radio.or.10": {
+        "name": "Chillout",
+        "description": "The station that rules the nation",
+        "url": "http://goo.gl/3DbFWl",
+        "audio": {
+            "codec": "mp3",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/8f7ce44aa749a97563c98dc5b69053aa.png"
+    },
+    "radio.or.11": {
+        "name": "Chillstep",
+        "description": "Chillstep",
+        "url": "http://goo.gl/25gJhg",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/7251688497a15b6a27a8e6952a3318fc.png"
+    },
+    "radio.or.12": {
+        "name": "Classic EuroDisco",
+        "description": "Classic EuroDisco.",
+        "url": "http://goo.gl/UxM6Yb",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/f9c6cdb880da74aa74ec581dc3f09dbd.png"
+    },
+    "radio.or.13": {
+        "name": "Classic Trance",
+        "description": "Classic Trance",
+        "url": "http://goo.gl/i9aMBc",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/53906dc786e7f3d55536defca56a4b5f.png"
+    },
+    "radio.or.14": {
+        "name": "Classic Vocal Trance",
+        "description": "Classic Vocal Trance",
+        "url": "http://goo.gl/oRGdGC",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/6c59bb5709a2e2ecae99765d64ce57e6.png"
+    },
+    "radio.or.15": {
+        "name": "Club Dubstep",
+        "description": "Club Dubstep",
+        "url": "http://goo.gl/aAfDRG",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/29b1b727e81f9dc1c6ca40926ac8ae34.jpg"
+    },
+    "radio.or.16": {
+        "name": "Dark DnB",
+        "description": "Dark DnB",
+        "url": "http://goo.gl/azQjDe",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/1561ba009eb79c68b9de141f8685c927.png"
+    },
+    "radio.or.17": {
+        "name": "Deep House",
+        "description": "Deep House",
+        "url": "http://goo.gl/eOdJwq",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/8dd90c88b4ee5399e6182204a2ede8ed.jpg"
+    },
+    "radio.or.18": {
+        "name": "Deep Nu-Disco",
+        "description": "Deep Nu-Disco",
+        "url": "http://goo.gl/kzXHzG",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/3896ecff86795302304c64386ff2c5db.png"        
+    },
+    "radio.or.19": {
+        "name": "Deep Tech",
+        "description": "Deep Tech",
+        "url": "http://goo.gl/rlVpld",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/87d3b2ee913e6ac75882329971d58be4.png"        
+    },
+    "radio.or.20": {
+        "name": "Disco House",
+        "description": "Disco House",
+        "url": "http://goo.gl/lg4So9",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/0ea9396414430256ffb76cd6148bf88a.png"
+     },
+    "radio.or.21": {
+        "name": "Downtempo Lounge",
+        "description": "Downtempo Lounge",
+        "url": "http://goo.gl/NaLOZo",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/6da83f72080cb225acf608e54f992cf2.png"       
+    },
+    "radio.or.22": {
+        "name": "DJ Mixes",
+        "description": "DJ Mixes",
+        "url": "http://goo.gl/X53iEH",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/5a0a6603d9a3f151b9eced1629e77d66.png"
+    },
+    "radio.or.23": {
+        "name": "Drum and Bass",
+        "description": "Drum and Bass",
+        "url": "http://goo.gl/7G6L6V",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/f2ed26a932bdb5cd0a0eac576aebfa3f.png"
+    },
+    "radio.or.24": {
+        "name": "Dubstep",
+        "description": "Dubstep",
+        "url": "http://goo.gl/4axAH2",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/e0614d304c8fd5879a1278dd626d8769.png"
+    },
+    "radio.or.25": {
+        "name": "EcLectronica",
+        "description": "EcLectronica",
+        "url": "http://goo.gl/lcitbb",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/25f559a97855d8107e7cdc63f2acb345.png"
+    },
+    "radio.or.26": {
+        "name": "Electro House",
+        "description": "Electro House",
+        "url": "http://goo.gl/IhRGd0",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/387bfe3c7d50b4edd1408135596a03df.png"
+    },
+    "radio.or.27": {
+        "name": "Electropop",
+        "description": "Electropop",
+        "url": "http://goo.gl/s4aCi9",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/72852e54a50b903aa0a726f87c0050c2.jpg"
+    },
+    "radio.or.28": {
+        "name": "Epic Trance",
+        "description": "Epic Trance",
+        "url": "http://goo.gl/FHIWp2",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/5a76739725cd2106a3e2f30a1461a9bd.jpg"
+    },
+    "radio.or.29": {
+        "name": "EuroDance",
+        "description": "EuroDance",
+        "url": "http://goo.gl/ueUBHy",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/a42ae2b9810acb81c6003915113c7d9d.png"
+    },
+    "radio.or.30": {
+        "name": "Funky House",
+        "description": "Funky House",
+        "url": "http://goo.gl/fpm2GG",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/45d5aa9e246fd59fe03e601171059581.png"
+    },
+    "radio.or.31": {
+        "name": "Future Garage",
+        "description": "Future Garage",
+        "url": "http://goo.gl/4YvOGo",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/d6aa1e9b4c48141fa573d498eba41a2a.png"
+    },
+    "radio.or.32": {
+        "name": "Future Synthpop",
+        "description": "Future Synthpop",
+        "url": "http://goo.gl/P5vuQV",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/f4b0f3c30b34cf76de0955652ae5664a.png"
+    },
+    "radio.or.33": {
+        "name": "Gabber",
+        "description": "Gabber",
+        "url": "http://goo.gl/ec6aYi",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/83b92cbe5cdc692fb0c8871135e98c55.png"
+    },
+    "radio.or.34": {
+        "name": "Goa & Psychedelic Trance",
+        "description": "Goa & Psychedelic Trance",
+        "url": "http://goo.gl/ddexWK",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/b5b22bf5232f246bf63b25914bd369e3.png"
+    },
+    "radio.or.35": {
+        "name": "Hands Up",
+        "description": "Hands Up",
+        "url": "http://goo.gl/dpZkzN",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/9d04d9b20de5378994fa8653a1dc69f3.jpg"
+    },
+    "radio.or.36": {
+        "name": "Hard Dance",
+        "description": "Hard Dance",
+        "url": "http://goo.gl/A92JIT",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/a67b19cab6cdb97ec77f8264f9c4c562.png"
+    },
+    "radio.or.37": {
+        "name": "Hardcore",
+        "description": "Hardcore",
+        "url": "http://goo.gl/I7OU5k",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/14f1a4484dc88e0df006e9cd71407bcb.png"
+    },
+    "radio.or.38": {
+        "name": "Hardstyle",
+        "description": "Hardstyle",
+        "url": "http://goo.gl/NUYmUL",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/b27a7b020806ce4428307b30b44734ec.png"
+        
+    },
+    "radio.or.39": {
+        "name": "House",
+        "description": "House",
+        "url": "http://goo.gl/yRVD3a",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/6f8a0b3279c24b1c5fa1c6c1397b9b56.png"
+        
+     },
+    "radio.or.40": {
+        "name": "Jungle",
+        "description": "Jungle",
+        "url": "http://goo.gl/pCfHuS",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/1501288819231087619e6e659f122830.png"
+        
+     },
+    "radio.or.41": {
+        "name": "Latin House",
+        "description": "Latin House",
+        "url": "http://goo.gl/KyPgyu",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/fb8908953ab95d2f01402660e2cc0883.png"
+        
+     },
+    "radio.or.42": {
+        "name": "Liquid DnB",
+        "description": "Liquid DnB",
+        "url": "http://goo.gl/jRo2SK",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/75b2b5e697e7948f5fcd64a1c54f3f72.png"
+        
+     },
+    "radio.or.43": {
+        "name": "Liquid Dubstep",
+        "description": "Liquid Dubstep",
+        "url": "http://goo.gl/anLo9d",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/df258a92e9d5152cb182b439f1d0eb2b.png"
+        
+     },
+    "radio.or.44": {
+        "name": "Lounge",
+        "description": "Lounge",
+        "url": "http://goo.gl/4qBh16",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/58f7afca5a6883c063f8642bfd2cef80.png"
+        
+     },
+    "radio.or.45": {
+        "name": "Mainstage",
+        "description": "Mainstage",
+        "url": "http://goo.gl/OB3tA8",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/5bafe3802484d479d77b21aa34f537fe.png"
+        
+     },
+    "radio.or.46": {
+        "name": "Minimal",
+        "description": "Minimal",
+        "url": "http://goo.gl/cE3bOu",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/5c29e3063f748d156260fb874634b602.png"
+        
+     },
+    "radio.or.47": {
+        "name": "Nightcore",
+        "description": "Nightcore",
+        "url": "http://goo.gl/scbPIu",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/2200134b0c655a3cd40e0fbf7380c9a0.png"
+        
+     },
+    "radio.or.48": {
+        "name": "Nu Disco",
+        "description": "Nu Disco",
+        "url": "http://goo.gl/scbPIu",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/4ba0684daed5c3c422b8ad3aa59c7eaf.png"
+        
+     },
+    "radio.or.49": {
+        "name": "Oldschool Acid",
+        "description": "Oldschool Acid",
+        "url": "http://goo.gl/FHGBfH",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/7edf76e784f740c1a20904309bbc7080.png"
+        
+     },
+    "radio.or.50": {
+        "name": "Oldschool Rave",
+        "description": "Oldschool Rave",
+        "url": "http://goo.gl/kIRcKG",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/8c4ec9353361ef5fd6c9cbc4999e2fd1.png"
+        
+     },
+    "radio.or.51": {
+        "name": "Oldschool Techno & Trance",
+        "description": "Oldschool Techno & Trance",
+        "url": "http://goo.gl/MWeysQ",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/ad112b71e9682c79343a4df45d419297.png"
+        
+     },
+    "radio.or.52": {
+        "name": "Progressive Psy",
+        "description": "Progressive Psy",
+        "url": "http://goo.gl/Zabv14",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/4aeae25360c3792e8e9fd6f2e5cdf39e.jpg"
+        
+     },
+    "radio.or.53": {
+        "name": "Progressive",
+        "description": "Progressive",
+        "url": "http://goo.gl/JpO8XX",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/fcea7c9d9a16314103a41f66bd6dfd15.png"
+        
+     },
+    "radio.or.54": {
+        "name": "Psybient",
+        "description": "Psybient",
+        "url": "http://goo.gl/RKuUMG",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/178802e0d43b3d42f2476a183541d652.jpg"
+        
+     },
+    "radio.or.55": {
+        "name": "PsyChill",
+        "description": "PsyChill",
+        "url": "http://goo.gl/R9bhl3",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/f301e3e597472b3edbf50a770a52c087.png"
+        
+     },
+    "radio.or.56": {
+        "name": "Russian Club Hits",
+        "description": "Russian Club Hits",
+        "url": "http://goo.gl/YvvXGc",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/3b2e1348eb2ded04b1b97e1791001bf8.png"
+        
+     },
+    "radio.or.57": {
+        "name": "Soulful House",
+        "description": "Soulful House",
+        "url": "http://goo.gl/kNnFCq",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/950ff823b9989f18f19ba65fb149fcad.png"
+        
+     },
+    "radio.or.58": {
+        "name": "Space Dreams",
+        "description": "Space Dreams",
+        "url": "http://goo.gl/AjnKj8",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/4531d1656bc302d4f1898f779a988c17.png"
+        
+     },
+    "radio.or.59": {
+        "name": "Tech House",
+        "description": "Tech House",
+        "url": "http://goo.gl/2BkS6G",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/a1cb226c2170a74ed0fdb4839dafe869.png"
+        
+     },
+    "radio.or.60": {
+        "name": "Techno",
+        "description": "Techno",
+        "url": "http://goo.gl/wfHVU7",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/cedaa3b495a451bdd6ee4b21311e155c.png"
+        
+       },
+    "radio.or.61": {
+        "name": "Trance",
+        "description": "Trance",
+        "url": "http://goo.gl/YLTTGa",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/befc1043f0a216128f8570d3664856f7.png"
+        
+       },
+    "radio.or.62": {
+        "name": "Trap",
+        "description": "Trap",
+        "url": "http://goo.gl/yvHGfr",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/a79fc1acd04100c12f7b55c17c72a23e.png"
+        
+       },
+    "radio.or.63": {
+        "name": "UMF Radio",
+        "description": "UMF Radio",
+        "url": "http://goo.gl/vGWUrW",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/2c91e9bbb77821106c9905653a5ade9e.png"
+        
+       },
+    "radio.or.64": {
+        "name": "Underground Techno",
+        "description": "Underground Techno",
+        "url": "http://goo.gl/FpzkBK",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/cfaee945340928dd2250e731efda8e6c.png"
+        
+       },
+    "radio.or.65": {
+        "name": "Vocal Chillout",
+        "description": "Vocal Chillout",
+        "url": "http://goo.gl/qLs0Oj",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/a5b0bd27de43d04e1da9acf5b8883e85.png"
+        
+       },
+    "radio.or.66": {
+        "name": "Vocal Lounge",
+        "description": "Vocal Lounge",
+        "url": "http://goo.gl/Xsh9a1",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/5381371e7ebab35aaa3b8f3f290f31ca.png"
+       },
+    "radio.or.67": {
+        "name": "Vocal Trance",
+        "description": "Vocal Trance",
+        "url": "http://goo.gl/nvbDmd",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/009b4fcdb032cceee6f3da5efd4a86e9.png"
+       },
+    "radio.or.68": {
+        "name": "Club Sounds",
+        "description": "Club Sounds",
+        "url": "http://goo.gl/I77zsS",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "http://api.audioaddict.com/v1/assets/image/6620a82bb6a6d0bc281260645b996b0a.png"
+        
+        }
+}
